@@ -1,0 +1,163 @@
+FP WEEK5
+KMEANS
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.62475430303518664)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.59794501826545954)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.45763962933305219)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.45153411635130652)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.33886115262119637)
+('Best Cluster ', 2)
+KMeans + DTW
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.61954311089841418)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.29770463385243645)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.30120242891721022)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.24416506371092322)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.22364639167693701)
+('Best Cluster ', 2)
+
+FP WEEK6
+KMEANS
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.52522494032897193)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.37251822717684574)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.30899533792985856)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.29207979458676381)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.29657998887301634)
+('Best Cluster ', 2)
+KMeans + DTW
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.52423925154154571)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.34465696206477808)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.22891484297568515)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.25808597095446434)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.1757444997805522)
+('Best Cluster ', 2)
+
+FP WEEK7
+KMEANS
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.3538680851004683)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.24855331826017177)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.23382491478040343)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.23829469443945892)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.2124971295841277)
+('Best Cluster ', 2)
+KMeans + DTW
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.35116101711745573)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.17974818925816083)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.11145677057658698)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.12919083278822585)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.10973519695380356)
+('Best Cluster ', 2)
+
+EX WEEK5
+KMEANS
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.50943326396317634)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.44196949809392311)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.50023505076344832)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.49072630238556936)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.4318353593084821)
+('Best Cluster ', 2)
+KMeans + DTW
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.50922293828331766)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.37092133905705327)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.26903481762467657)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.21284740024333201)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.13909202597813294)
+('Best Cluster ', 2)
+
+EX WEEK6
+KMEANS
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.35687952117055965)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.26188630995931461)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.25000708651459708)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.21608079934530369)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.18632289765112264)
+('Best Cluster ', 2)
+KMeans + DTW
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.3583704279897188)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.2036489996005669)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.19692730288156413)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.1883549159726417)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.12821891278913727)
+('Best Cluster ', 2)
+
+EX WEEK7
+KMEANS
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.21701549601026143)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.17604087998413881)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.17191678137398711)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.17391445029746014)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.19261407508934389)
+('Best Cluster ', 2)
+KMeans + DTW
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.20146542356926325)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.16369957095000812)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.078724783710028473)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.10016765266978458)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.030239155062516138)
+('Best Cluster ', 2)
+
+CTB WEEK4
+KMeans
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.4483846643876625)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.42580487275468859)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.37402751621336833)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.37784924458563546)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.38410289482053317)
+('Best Cluster ', 2)
+KMeans + DTW
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.40878213778041744)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.27166751034618175)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.15464262360524414)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.14046708225418114)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.12193031681546043)
+('Best Cluster ', 2)
+
+CTB WEEK5
+Kmeans
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.3364546692221721)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.22874003839809467)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.2413564155460371)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.24217081412967584)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.22563568435851564)
+('Best Cluster ', 2)
+KMeans + DTW
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.32917687273176915)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.19789324756268564)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.14189303553986179)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.12726464790242414)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.079711122575582605)
+('Best Cluster ', 2)
+
+CTB WEEK6
+Kmeans
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.31695293429782534)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.29513700219788563)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.32692886682633882)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.33035590365959111)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.30382082458639237)
+('Best Cluster ', 5)
+KMeans + DTW
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.24487113126736432)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.080540297534159505)
+('For n_clusters =', 4, 'The average silhouette_score is :', -0.045155918310741672)
+('For n_clusters =', 5, 'The average silhouette_score is :', -0.034399154033075613)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.032542728939391613)
+('Best Cluster ', 2)
+
+RI WEEK4
+
+RI WEEK5
+KMeans
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.56974371552857461)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.18464443695594748)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.17094196563089764)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.19205043156579435)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.18162922147390953)
+('Best Cluster ', 2)
+
+RI WEEK6
+KMeans
+('For n_clusters =', 2, 'The average silhouette_score is :', 0.50029364923789743)
+('For n_clusters =', 3, 'The average silhouette_score is :', 0.21309677836986526)
+('For n_clusters =', 4, 'The average silhouette_score is :', 0.33014765502324989)
+('For n_clusters =', 5, 'The average silhouette_score is :', 0.36099794638609872)
+('For n_clusters =', 6, 'The average silhouette_score is :', 0.4195151088971204)
+('Best Cluster ', 2)
