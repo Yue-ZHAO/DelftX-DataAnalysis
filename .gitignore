@@ -6,5 +6,6 @@
 *.jpg
 *.png
 
-# R project
+# Others
 *.Rproj
+*.DS_Store
