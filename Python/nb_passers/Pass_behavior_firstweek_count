@@ -1,0 +1,143 @@
+FP101x-3T2015 Week 5
+
+                            course_learner_id
+pre_behavior post_behavior                   
+Chasing      Keep_high                     38
+             Keep_low                       4
+             Keep_mid                       4
+             Reducing                      22
+Keep_high    Chasing                        6
+             Keep_high                    320
+             Keep_low                      23
+             Keep_mid                      11
+             Reducing                     163
+             Unstable                      55
+Reducing     Keep_high                      1
+             Keep_low                       8
+             Reducing                       8
+             Unstable                       4
+Unstable     Chasing                        1
+             Keep_high                      8
+             Keep_low                       1
+             Reducing                      12
+             Unstable                       1
+
+---------------------------------------------
+FP101x-3T2015 Week 6
+                          course_learner_id
+pre_behavior post_behavior                   
+Chasing      Keep_high                     12
+             Keep_low                       9
+             Keep_mid                       2
+             Reducing                       8
+             Unstable                       8
+Keep_high    Keep_high                     37
+             Keep_low                      10
+             Keep_mid                       8
+             Reducing                      26
+             Unstable                       8
+Keep_mid     Keep_high                      3
+             Keep_low                       4
+             Keep_mid                       4
+             Reducing                       2
+             Unstable                       5
+Reducing     Chasing                        3
+             Keep_high                      8
+             Keep_low                      30
+             Keep_mid                       7
+             Reducing                      13
+             Unstable                       5
+Unstable     Keep_high                      8
+             Keep_low                       9
+             Keep_mid                       1
+             Reducing                       5
+             Unstable                       2
+
+---------------------------------------------
+EX101x-3T2015 Week 5
+
+                            course_learner_id
+pre_behavior post_behavior                   
+Chasing      Keep_high                      1
+Keep_high    Keep_high                    122
+             Keep_low                      19
+             Keep_mid                      11
+             Reducing                     269
+             Unstable                      26
+
+----------------------------------------------
+EX101x-3T2015 Week 6
+                            course_learner_id
+pre_behavior post_behavior                   
+Chasing      Chasing                        1
+             Keep_high                     19
+             Keep_low                      21
+             Keep_mid                      14
+             Reducing                      40
+             Unstable                      14
+Keep_high    Chasing                        1
+             Keep_high                     25
+             Keep_low                      31
+             Keep_mid                      44
+             Reducing                      50
+             Unstable                      18
+Reducing     Chasing                        2
+             Keep_high                     10
+             Keep_low                      42
+             Keep_mid                      21
+             Reducing                      46
+             Unstable                       4
+Unstable     Keep_high                      7
+             Keep_low                      16
+             Keep_mid                       5
+             Reducing                      14
+             Unstable                       5
+----------------------------------------------
+CTB3365STx-1T2016 Week 4
+
+                            course_learner_id
+pre_behavior post_behavior                   
+Chasing      Keep_high                     10
+             Keep_low                       1
+             Keep_mid                       1
+             Reducing                      10
+             Unstable                       4
+Keep_high    Chasing                        1
+             Keep_high                     44
+             Keep_low                      13
+             Keep_mid                       9
+             Reducing                      68
+             Unstable                      28
+Reducing     Keep_high                      1
+             Reducing                       3
+             Unstable                       2
+Unstable     Keep_high                      4
+             Keep_low                       2
+             Keep_mid                       2
+             Reducing                      10
+             Unstable                       3 
+
+----------------------------------------------
+CTB3365STx-1T2016 Week 5
+
+                            course_learner_id
+pre_behavior post_behavior                   
+Chasing      Keep_high                      3
+             Keep_low                       3
+             Reducing                       3
+Keep_high    Keep_mid                       1
+Keep_mid     Keep_high                      3
+             Keep_low                       5
+             Keep_mid                       5
+             Reducing                       2
+             Unstable                       3
+Reducing     Chasing                        1
+             Keep_low                       6
+             Keep_mid                       5
+             Reducing                       1
+             Unstable                       2
+Unstable     Keep_high                      8
+             Keep_low                      11
+             Keep_mid                      24
+             Reducing                      14
+             Unstable                      10

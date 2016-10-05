@@ -1,0 +1,23 @@
+# Plot Theme and Styles
+
++ theme(axis.text.x = element_text(colour="grey20",size=20), axis.text.y = element_text(colour="grey20",size=20), axis.title.x = element_text(colour="grey20",size=20), axis.title.y = element_text(colour="grey20",size=20))
+
+# Score distribuiton
+ggplot(FP101x_score_distribution, aes(x=score, fill=color)) + geom_histogram(binwidth = 0.05) + facet_grid(group~rel_week, scales="free_y") + ylab("# Passers") + xlab("Score") + theme(axis.text.x = element_text(colour="grey20",size=13, angle=60, hjust=1, vjust=1), axis.text.y = element_text(colour="grey20",size=10), axis.title.x = element_text(colour="grey20",size=20), axis.title.y = element_text(colour="grey20",size=20), strip.text.x = element_text(size = 13), strip.text.y = element_text(size = 13)) + guides(fill=FALSE) + scale_x_continuous(breaks=c(0.0, 0.25, 0.50, 0.75, 1.00)) + scale_y_continuous(breaks = integer_breaks())
+
+# Video duration distribution
+ggplot(CTB3365STx_video_distribution, aes(x=duration, fill=color)) + geom_histogram(binwidth = 0.1) + facet_grid(group~rel_week, scales="free_y") + ylab("# Passers") + xlab("Duration") + theme(axis.text.x = element_text(colour="grey20",size=13, angle=60, hjust=1, vjust=1), axis.text.y = element_text(colour="grey20",size=10), axis.title.x = element_text(colour="grey20",size=20), axis.title.y = element_text(colour="grey20",size=20), strip.text.x = element_text(size = 13), strip.text.y = element_text(size = 13)) + guides(fill=FALSE) + xlim(0, 2) + scale_y_continuous(breaks = integer_breaks())
+
+# Notebook
+SIZE = 15
+plt.rc('font', size=SIZE)  # controls default text sizes
+plt.rc('axes', titlesize=SIZE)  # fontsize of the axes title
+plt.rc('axes', labelsize=SIZE)  # fontsize of the x any y labels
+plt.rc('xtick', labelsize=SIZE)  # fontsize of the tick labels
+plt.rc('ytick', labelsize=SIZE)  # fontsize of the tick labels
+plt.rc('legend', fontsize=SIZE)  # legend fontsize
+plt.rc('figure', titlesize=SIZE)  # # size of the figure title
+plt.figure(figsize=(640/80, 480/80), dpi=80)
+
+# Plot Size
+Single Plot: 750 * 375
